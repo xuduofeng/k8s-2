@@ -1,2 +1,2 @@
-FROM gcr.io/jenkinsxio/prow/hook:v20191001-b0861a4
-MAINTAINER xinglongjian
+FROM gcr.io/jenkinsxio/prow/hook:v20200107-aaa0608
+MAINTAINER xuduofeng
