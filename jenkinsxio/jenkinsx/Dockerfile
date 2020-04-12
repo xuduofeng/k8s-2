@@ -1,2 +1,2 @@
-FROM gcr.io/jenkinsxio/jenkinsx:0.0.80
-MAINTAINER xinglongjian
+FROM gcr.io/jenkinsxio/jenkinsx:0.0.81
+MAINTAINER xuduofeng
