@@ -1,1 +1,1 @@
-FROM gcr.io/jenkinsxio/builder-jx:2.1.37-667
+FROM gcr.io/jenkinsxio/builder-jx:2.1.32-662
