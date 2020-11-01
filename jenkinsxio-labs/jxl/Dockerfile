@@ -1,1 +1,1 @@
-FROM gcr.io/jenkinsxio-labs/jxl:0.0.127
+FROM gcr.io/jenkinsxio-labs/jxl:0.0.136
